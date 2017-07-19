@@ -115,4 +115,4 @@ h + geom_line() + facet_grid(date.type ~ .) +
   labs(title = "Average Number of Steps Taken Per Five Minute Interval w/ Data Type")
 ```
 
-Now we can see that the highest average for intervals occurs on the weekdays and not the weekends.
+Now we can see where the highest average steps are taken during each interval for both the weekdays and weekend.
